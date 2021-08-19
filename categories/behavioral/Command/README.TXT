@@ -1,0 +1,1 @@
+Command - It generates the objects which encapsulate actions of parameters.

@@ -1,0 +1,2 @@
+Adapter - It provides us for two incompatible classes to work together by wrapping an interface around one of the existing classes.
+the adapter pattern makes two incompatible interfaces compatible without changing their existing code.

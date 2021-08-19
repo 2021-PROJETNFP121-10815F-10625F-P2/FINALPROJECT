@@ -1,0 +1,1 @@
+State - It allows an object to modify its behavior when it's internal states changes.

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TriangleAdapter
+comment0.text=\r\n\ TriangleAdapter\ class\ extending\ Triangle\ implementing\ the\ Shape\ interface.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TriangleAdapter()
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=void\ resize()
+comment4.params=
+comment4.target=java.lang.String\ description()
+comment5.params=
+comment5.target=boolean\ isHide()
+numComments=6

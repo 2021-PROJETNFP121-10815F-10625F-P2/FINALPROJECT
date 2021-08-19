@@ -1,0 +1,1 @@
+Decorator - It extends the object behavior dynamically at the run time.

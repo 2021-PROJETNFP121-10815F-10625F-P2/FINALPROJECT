@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Rectangle\ class\ implementing\ the\ Shape\ interface.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ draw()
+comment2.params=
+comment2.target=void\ resize()
+comment3.params=
+comment3.target=java.lang.String\ description()
+comment4.params=
+comment4.target=boolean\ isHide()
+numComments=5

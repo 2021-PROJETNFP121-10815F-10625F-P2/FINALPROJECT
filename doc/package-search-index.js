@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"categories.behavioral.Command"},{"l":"categories.behavioral.State"},{"l":"categories.creational.Abstract_factory"},{"l":"categories.creational.Singleton"},{"l":"categories.structural.Adapter"},{"l":"categories.structural.Decorator"}]

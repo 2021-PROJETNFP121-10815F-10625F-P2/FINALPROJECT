@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HasMoneyState
+comment0.text=\r\n\ HasMoneyState\ is\ concrete\ classes\ implementing\ State\ interface.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=gumballMachine
+comment1.target=HasMoneyState(GumballMachine)
+comment2.params=
+comment2.target=void\ insertMoney()
+comment3.params=
+comment3.target=void\ ejectMoney()
+comment4.params=
+comment4.target=void\ turnCrank()
+comment5.params=
+comment5.target=void\ dispense()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

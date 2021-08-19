@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ShapeFactory
+comment0.text=\r\n\ Create\ Factory\ classes\ ShapeFactory\ extending\ AbstractFactory\ to\ generate\ object\ of\ concrete\ class\ based\ on\ given\ information.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=shape
+comment1.target=Shape\ getShape(java.lang.String)
+comment2.params=color
+comment2.target=Color\ getColor(java.lang.String)
+numComments=3

@@ -1,0 +1,6 @@
+categories.behavioral.Command
+categories.behavioral.State
+categories.creational.Abstract_factory
+categories.creational.Singleton
+categories.structural.Adapter
+categories.structural.Decorator
